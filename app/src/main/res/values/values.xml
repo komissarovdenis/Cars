@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cars_view_item_height">48dp</dimen>
+    <dimen name="cars_view_item_padding">20dp</dimen>
+    <dimen name="progress_view_item_height">48dp</dimen>
+    <dimen name="progress_view_item_padding">4dp</dimen>
+
+    <integer name="page_size">15</integer>
+</resources>

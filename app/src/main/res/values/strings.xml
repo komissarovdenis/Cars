@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="connection_error">There is a connection problem. Please, try again</string>
+    <string name="car_manufacturer">Manufacturer: %s</string>
+    <string name="car_model">Model: %s</string>
+    <string name="car_year">Year: %s</string>
+    <string name="car_info">Car info</string>
+</resources>

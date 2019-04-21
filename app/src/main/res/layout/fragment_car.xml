@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+            android:id="@+id/manufacturer_view"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center_vertical"
+            android:background="@color/cars_view_item_background_colored"
+            android:paddingStart="@dimen/cars_view_item_padding"
+            android:paddingEnd="@dimen/cars_view_item_padding"
+            android:gravity="center_vertical"
+            android:ellipsize="end"
+            android:textSize="18sp"/>
+
+    <TextView
+            android:id="@+id/model_view"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center_vertical"
+            android:background="@color/cars_view_item_background_transparent"
+            android:paddingStart="@dimen/cars_view_item_padding"
+            android:paddingEnd="@dimen/cars_view_item_padding"
+            android:gravity="center_vertical"
+            android:ellipsize="end"
+            android:textSize="18sp"/>
+
+    <TextView
+            android:id="@+id/year_view"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center_vertical"
+            android:background="@color/cars_view_item_background_colored"
+            android:paddingStart="@dimen/cars_view_item_padding"
+            android:paddingEnd="@dimen/cars_view_item_padding"
+            android:gravity="center_vertical"
+            android:ellipsize="end"
+            android:textSize="18sp"/>
+
+</LinearLayout>
